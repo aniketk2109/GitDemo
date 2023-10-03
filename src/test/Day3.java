@@ -22,6 +22,7 @@ public class Day3 {
 	public void WebloginCarLoan()
 	{
 		System.out.println("weblogincar");
+		System.out.println("Jira");
 	
 	}
 	
